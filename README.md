@@ -7,7 +7,7 @@
 
 <div>
   <h2>About me</h2>
-  Currently an undergraduate data science student at UC San Diego. Most of my academic and extracurricular work is done through my school affiliated GitHub, but I'm doing my best to merge as much as I can to this one! If you want to check out more of my projects and code, feel free to explore.
+  Currently an undergraduate data science student at UC San Diego. Most of my academic and extracurricular work is done through my school affiliated GitHub, but I'm doing my best to merge as much as I can to this one. If you want to check out more of my projects and code, feel free to explore.
   
   <h2>Connect with me</h2>
   <a href = 'https://www.linkedin.com/in/Kaii-Bijlani/'>
