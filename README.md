@@ -11,7 +11,7 @@
   
   <h2>Connect with me</h2>
   <a href = 'https://www.linkedin.com/in/Kaii-Bijlani/'>
-    <img src = 'https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png' width = 5% height = 5%>
+    <img src = 'https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png' alt = 'LinkedIn Logo' width = 5% height = 5%>
   </a>
   
   <h2>Stats</h2>
