@@ -23,7 +23,7 @@
   [![](https://raw.githubusercontent.com/KaiiB/KaiiB/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KaiiB/KaiiB/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
   <h3>LeetCode:</h3>
-  <h4> - If you have some time, check out my posted solutions! A lot of them are pretty cool and intuitive, and I love explaining them.</h4>
+  <h4> -> If you have some time, check out my posted solutions! A lot of them are pretty cool and intuitive, and I love explaining them.</h4>
   
   <img src = "https://leetcard.jacoblin.cool/KaiiB?theme=radical&font=Syne%20Mono&ext=heatmap" alt = "LeetCode Stats">
 </div>
