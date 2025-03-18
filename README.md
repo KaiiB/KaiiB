@@ -24,5 +24,6 @@
   
   <h3>LeetCode:</h3>
   <h4> - If you have some time, check out my posted solutions! A lot of them are pretty cool and intuitive, and I love explaining them.</h4>
+  
   <img src = "https://leetcard.jacoblin.cool/KaiiB?theme=radical&font=Syne%20Mono&ext=heatmap" alt = "LeetCode Stats">
 </div>
