@@ -8,6 +8,12 @@
 <div>
   <h2>About me</h2>
   Currently an undergraduate data science student at UC San Diego. Most of my academic and extracurricular work is done through my school affiliated GitHub, but I'm doing my best to merge as much as I can to this one. If you want to check out more of my projects and code, feel free to explore.
+
+  <h2>See my website for more details!</h2>
+   
+   <a href = 'https://kaiib.github.io/'> 
+      https://kaiib.github.io/
+   </a>>
   
   <h2>Connect with me</h2>
   <a href = 'https://www.linkedin.com/in/Kaii-Bijlani/'>
@@ -23,7 +29,7 @@
   [![](https://raw.githubusercontent.com/KaiiB/KaiiB/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KaiiB/KaiiB/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
   <h3>LeetCode:</h3>
-  <h4> > If you have some time, check out my posted solutions! A lot of them are pretty cool and intuitive, and I love explaining them.</h4>
+  <h4> - If you have some time, check out my posted solutions! A lot of them are pretty cool and intuitive, and I love explaining them.</h4>
   
   <img src = "https://leetcard.jacoblin.cool/KaiiB?theme=radical&font=Syne%20Mono&ext=heatmap" alt = "LeetCode Stats">
 </div>
