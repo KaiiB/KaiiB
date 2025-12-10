@@ -7,12 +7,12 @@
 
 <div>
   <h2>About me</h2>
-  Currently an undergraduate data science student at UC San Diego. Most of my academic and extracurricular work is done through my school affiliated GitHub, but I'm doing my best to merge as much as I can to this one. If you want to check out more of my projects and code, feel free to explore.
+  Currently an undergraduate data science student at UC San Diego. A lot of my academic and extracurricular work is done through my school affiliated GitHub, but I'm doing my best to merge as much as I can to this one. If you want to check out more of my projects and code, feel free to explore.
 
-  <h2>See my website for more details!</h2>
+  <h2>See my website!</h2>
    
    <a href = 'https://kaiib.github.io/'> 
-      https://kaiib.github.io/
+      :point_right: https://kaiib.github.io/
    </a>>
   
   <h2>Connect with me</h2>
