@@ -12,8 +12,8 @@
   <h2>See my website!</h2>
    
    <a href = 'https://kaiib.github.io/'> 
-      :point_right: https://kaiib.github.io/
-   </a>>
+      :point_right:  https://kaiib.github.io/
+   </a>
   
   <h2>Connect with me</h2>
   <a href = 'https://www.linkedin.com/in/Kaii-Bijlani/'>
